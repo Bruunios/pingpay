@@ -1,11 +1,11 @@
 {
-    "name": "meu_primeiro_app",
-    "short_name": "meu_primeiro_app",
+    "name": "PingPay",
+    "short_name": "PingPay",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#1348AD",
     "theme_color": "#1348AD",
-    "description": "A new Flutter project.",
+    "description": "Controle seus boletos e vencimentos.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
